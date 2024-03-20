@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<HTML>
+    <head>
+        <title>Latihan Kedua</title>
+    </head>
+    <body>
+        <header id = "header">
+            <img src = "logo quipper.png" width="20%" height="20%" alt ="logo"/>
+            <ul id="menu-utama">
+                <li><a href="https://www.quipper.com/id/">Home</a></li>
+                <li><a href="https://www.quipper.com/id/blog/tips-trick/tutorial-quipper-video/">Tutorial</a></li>
+                <li><a href="https://youtu.be/sbstryVAaho?si=LK2l29fVfdDYNe24">Video</a></li>
+            </ul>
+            <form>
+                <input type="text" name="search"/>
+            </form>
+        </header>
+
+        <hr>
+    <section id="daftar-artikel">
+        <article>
+            <img src = "quipper video.webp" width="30%" height="30%" alt ="gambar artikel"/>
+            <h1> KENAPA HARUS BELAJAR DENGAN QUIPPER VIDEO?</h1>
+            <b> September 21,2021</b> <b>Views : 12.479</b>
+            <p> Quipper Video adalah bimbel online berbasis video streaming untuk kamu siswa SMP dan SMA. Quipper Video merupakan solusi belajar dengan 
+                materi berkualitas bersama Super Teacher, untuk membantu kesulitan belajarmu khususnya untuk persiapan ujian seperti Penilaian Tengah
+                Semester (PTS), Penilaian Akhir Semester (PAS), dan UTBK SBMPTN, agar kegiatan belajarmu jadi lebih efektif dan menyenangkan.</p>
+            <a href="https://youtu.be/_99NdvPhNjU?si=XSaaPWKB5FmiXOIU">History quipper</a>
+                <hr>
+        </article>
+
+        <article>
+            <img src="bannernya quipper.webp" alt="Gambar Artikel" width="300" height="200" />
+            <h1>Ini Dia Alasan Utama untuk Kamu Belajar Bareng Quipper!</h1>
+            <b>Oktober 6,2023</b> <b>Views : 17.568</b>
+            <p>1. Penjelasan Materi Lengkap & Mudah Dimengerti</p>
+            <p>2. Ribuan Quiz untuk Persiapan Ujian & UTBK</p>
+            <p>3. Bisa Diskusi Privat Langsung ke Tutor & Coach</p>
+            <p>4. Update Info Terkini Seputar UTBK & Bahas Soal Sulit Lewat Live Class</p>
+
+            <a href="https://youtu.be/IB9VWquGHPI?feature=shared">Watch This</a>
+        </article>
+
+        <hr>
+        
+        <article>
+            <img src="pembelajaran quipper 1.png" alt="pembelajaran" width="1000" height="200"/>
+            <img src="pembelajaran quipper 2.png" alt="pembelajaran" width="1000" height="200"/>
+            <h1> PENJELASAN MEMBELAJARAN YANG SERU!</h1>
+            <b>Juli 17,2017</b> <b>Views : 828.028</b>
+            <b>Mei 22,2020</b> <b>Views : 28.947</b>
+            <p>Pasti kamu sudah menlihat penjelasan dari quipper video kan?
+
+                Cara belajar di Quipper pada umumnya belajar mandiri, dimana kamu bisa akses video materi, latihan soal, dan rangkuman materi kapanpun dan dimanapun kamu mau, 
+                jadi kamu bisa menyesuaikan waktu belajar sesuai keinginan dan kebutuhan kamu sendiri.</p>
+            <a href="https://youtu.be/KmOHoKzWrn8?si=4LVaSvVuE5OyOgHh">Watch This</a>
+            <br>
+            <a href="https://youtu.be/OvKmItOv--s?si=lMajwggPYNTMniCl">Watch This</a>
+        </article>
+
+    </section>
+    
+    <aside id ="sidebar">
+        <h2>Who we are?</h2>
+        <p>Quipper merupakan perusahaan teknologi pendidikan dengan misi memberikan pendidikan terbaik hingga ke daerah terpencil. Berdiri pertama kali pada tahun 2010 di London - Inggris, 
+            layanan Quipper saat ini telah dapat dinikmati di beberapa negara seperti Jepang, Filipina, dan Indonesia. Sejak tahun 2015, Quipper telah menjadi bagian dari ekosistem pendidikan 
+            Indonesia dengan turut menyediakan, memperbaiki, dan mendistribusikan pendidikan berkualitas untuk guru dan siswa.
+
+            
+        <h2>Artikel berdasarkan kategori</h2>
+        <ul>
+            <li><a href="https://www.quipper.com/id/blog/">Blog Quipper</a></li>
+            <li><a href="https://www.quipper.com/id/blog/tips-trick/alasan-belajar-di-quipper/">Alasan belajar di quipper</a></li>
+            <li><a href="https://www.quipper.com/id/blog/quipper-land/quipper-info/tryout-utbk-snbt-2024/">Tryout UTBK-SNBT 2024</a></li>
+            <li><a href="https://www.quipper.com/id/blog/quipper-land/quipper-info/quipper-video-masterclass/">Fitur Quipper</a></li>
+            <li><a href="https://en.wikipedia.org/wiki/Quipper_(company)">Tentang Quipper</a></li>
+        </ul>
+    </aside>
+
+    <footer id="footer">
+        <p>Quipper.net copyright 2024 by Quipper, Naura</p>
+
+    </footer>
+    </body>
+</HTML>
